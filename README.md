@@ -1,0 +1,1 @@
+the solution is react use useEffect to avoid too many rerendering by useEffect used to set width before render but when using if else if make too many rerender because set check then re-render then set check again re-rerender
